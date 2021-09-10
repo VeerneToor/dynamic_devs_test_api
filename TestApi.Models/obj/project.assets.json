@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Models\\TestApi.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Models\\TestApi.Models.csproj",
       "projectName": "TestApi.Models",
-      "projectPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Models\\TestApi.Models.csproj",
+      "projectPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Models\\TestApi.Models.csproj",
       "packagesPath": "C:\\Users\\Veerne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Models\\obj\\",
+      "outputPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Veerne\\AppData\\Roaming\\NuGet\\NuGet.Config",

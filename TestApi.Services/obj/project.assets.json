@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Services\\TestApi.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Services\\TestApi.Services.csproj",
       "projectName": "TestApi.Services",
-      "projectPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Services\\TestApi.Services.csproj",
+      "projectPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Services\\TestApi.Services.csproj",
       "packagesPath": "C:\\Users\\Veerne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Services\\obj\\",
+      "outputPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Veerne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Data\\TestApi.Data.csproj": {
-              "projectPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Data\\TestApi.Data.csproj"
+            "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Data\\TestApi.Data.csproj": {
+              "projectPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Data\\TestApi.Data.csproj"
             },
-            "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Models\\TestApi.Models.csproj": {
-              "projectPath": "C:\\Users\\Veerne\\source\\repos\\WebApplication1TestApi\\TestApi.Models\\TestApi.Models.csproj"
+            "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Models\\TestApi.Models.csproj": {
+              "projectPath": "C:\\Users\\Veerne\\Documents\\Dynamic Devs\\Proyectos\\TestApi\\TestApi.Models\\TestApi.Models.csproj"
             }
           }
         }
