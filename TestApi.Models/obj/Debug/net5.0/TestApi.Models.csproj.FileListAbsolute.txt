@@ -1,0 +1,12 @@
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\bin\Debug\net5.0\TestApi.Models.deps.json
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\bin\Debug\net5.0\TestApi.Models.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\bin\Debug\net5.0\ref\TestApi.Models.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\bin\Debug\net5.0\TestApi.Models.pdb
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.csproj.AssemblyReference.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.AssemblyInfoInputs.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.AssemblyInfo.cs
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\ref\TestApi.Models.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Models\obj\Debug\net5.0\TestApi.Models.pdb

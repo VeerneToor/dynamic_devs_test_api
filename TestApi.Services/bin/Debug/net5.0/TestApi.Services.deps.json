@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestApi.Services/1.0.0": {
+        "dependencies": {
+          "TestApi.Data": "1.0.0",
+          "TestApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "TestApi.Services.dll": {}
+        }
+      },
+      "TestApi.Data/1.0.0": {
+        "dependencies": {
+          "TestApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "TestApi.Data.dll": {}
+        }
+      },
+      "TestApi.Models/1.0.0": {
+        "runtime": {
+          "TestApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApi.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

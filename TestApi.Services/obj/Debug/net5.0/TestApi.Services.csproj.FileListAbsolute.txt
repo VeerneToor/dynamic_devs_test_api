@@ -1,0 +1,17 @@
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Services.deps.json
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Services.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\ref\TestApi.Services.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Services.pdb
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Data.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Models.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Data.pdb
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\bin\Debug\net5.0\TestApi.Models.pdb
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.csproj.AssemblyReference.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.AssemblyInfoInputs.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.AssemblyInfo.cs
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.csproj.CopyComplete
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\ref\TestApi.Services.dll
+C:\Users\Veerne\source\repos\WebApplication1TestApi\TestApi.Services\obj\Debug\net5.0\TestApi.Services.pdb
